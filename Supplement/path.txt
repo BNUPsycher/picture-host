@@ -1,79 +1,20 @@
-./Intro_Policy:
-2022考研政治导学第一讲.pdf
-2022考研政治导学第二讲.pdf
-2022考研政治当代导学.pdf
-2022考研政治政治全程班毛特基础导学热词（三）0117.pdf
-2022考研政治政治导学第三讲——热词1（哲学）.pdf
-2022考研政治政治第四讲，导学热词2.pdf
-2022考研政治毛中特真题精选.pdf
-2022考研政治马原真题真练最终版（附答案版）.pdf
-2022考研政治高频热词3近代史周年要点1.pdf
-2022考研政治高频热词4近代史周年要点.pdf
-2022考研政治高频热词5.pdf
-习近平同志在庆祝中国共产党成立_100_周年大会上的重要讲话_.pdf
-史纲【历年真题练习】.pdf
-在庆祝中国共产党成立一百周年大会上的讲话（逻辑与重点）_.pdf
-思修导学.pdf
-政治考研热词8.pdf
-考研政治热词6.pdf
-考研政治热词9.pdf
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Policy/习近平同志在庆祝中国共产党成立_100_周年大会上的重要讲话_.pdf">习近平同志在庆祝中国共产党成立_100_周年大会上的重要讲话_.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Policy/历年真题-史纲.pdf">历年真题-史纲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Policy/历年真题-毛中特.pdf">历年真题-毛中特.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Policy/历年真题-马原.pdf">历年真题-马原.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Policy/在庆祝中国共产党成立一百周年大会上的讲话（逻辑与重点）_.pdf">在庆祝中国共产党成立一百周年大会上的讲话（逻辑与重点）_.pdf</a>
 
-./Psych:
-Developmental_Psychology
-Educational_Psychology
-Experimental_Psychology
-General_Psychology
-path.txt
-Social_Psychology
-Stasistics
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Experimental_Psychology/01_实验心理学第一讲.pdf">01_实验心理学第一讲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Experimental_Psychology/02_实验心理学第二讲.pdf">02_实验心理学第二讲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Experimental_Psychology/03_实验心理学第三讲.pdf">03_实验心理学第三讲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Experimental_Psychology/04_实验心理学第四讲.pdf">04_实验心理学第四讲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Experimental_Psychology/05_实验心理学第五讲.pdf">05_实验心理学第五讲.pdf</a>
 
-./Psych/Developmental_Psychology:
-01_发展心理学第一讲.pdf
-02_发展心理学第二讲.pdf
-03_发展心理学第三讲.pdf
-04_发展心理学第四讲.pdf
-发展心理学-cathy.pdf
-
-./Psych/Educational_Psychology:
-01_教育心理学第一讲.pdf
-02_教育心理学第二讲.pdf
-03_教育心理学第三讲.pdf
-04_教育心理学第四讲.pdf
-05_发展心理学第五讲.pdf
-教育心理学_讲义.pdf
-
-./Psych/Experimental_Psychology:
-01_实验心理学第一讲.pdf
-02_实验心理学第二讲.pdf
-03_实验心理学第三讲.pdf
-04_实验心理学第四讲.pdf
-05_实验心理学第五讲.pdf
-
-./Psych/General_Psychology:
-01_第一章.pdf
-02_第二章.pdf
-04_第四章_感觉.pdf
-05_第五章_知觉.pdf
-06_第六章_记忆.pdf
-07_第七章_思维.pdf
-08_第八章_语言.pdf
-09_第九章_动机.pdf
-10_第十章_情绪和情感.pdf
-11_第十一章_能力.pdf
-12_第十二章_人格.pdf
-普通心理学_讲义.pdf
-
-./Psych/Social_Psychology:
-01_社会心理学第一讲.pdf
-02_社会心理学第二讲.pdf
-社会心理学_讲义.pdf
-
-./Psych/Stasistics:
-01_心理统计第一讲.pdf
-02_心理统计第三讲.pdf
-03_心理统计第二讲.pdf
-04_心理统计第四讲.pdf
-05_心理统计第五讲.pdf
-06_心理统计第六讲.pdf
-07_心理统计第七讲.pdf
-08_心理统计第八讲.pdf
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Stasistics/01_心理统计第一讲.pdf">01_心理统计第一讲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Stasistics/02_心理统计第三讲.pdf">02_心理统计第三讲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Stasistics/03_心理统计第二讲.pdf">03_心理统计第二讲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Stasistics/04_心理统计第四讲.pdf">04_心理统计第四讲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Stasistics/05_心理统计第五讲.pdf">05_心理统计第五讲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Stasistics/06_心理统计第六讲.pdf">06_心理统计第六讲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Stasistics/07_心理统计第七讲.pdf">07_心理统计第七讲.pdf</a>
+<a href="https://cdn.jsdelivr.net/gh/BNUPsycher/picture-host/Supplement/Psych/Stasistics/08_心理统计第八讲.pdf">08_心理统计第八讲.pdf</a>
